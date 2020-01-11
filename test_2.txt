@@ -1,0 +1,120 @@
+Test 2.
+Commands:
+0. Exit
+1. Add figure
+2. Function call for all elements
+3. Delete figure by index
+Input number of chosen function: 1
+1. Input the pentagon
+2. Input the hexagon
+3. Input the octagon
+Input the number of chosen figure: 1
+Input coordinates of vertexes of pentagon:
+Input the coordinate 'x': 123
+Input the coordinate 'y': 123
+
+Input the coordinate 'x': 12312
+Input the coordinate 'y': 312
+
+Input the coordinate 'x': 4
+Input the coordinate 'y': 12
+
+Input the coordinate 'x': 12
+Input the coordinate 'y': 124
+
+Input the coordinate 'x': 12
+Input the coordinate 'y': 214
+
+
+Commands:
+0. Exit
+1. Add figure
+2. Function call for all elements
+3. Delete figure by index
+Input number of chosen function: 1
+1. Input the pentagon
+2. Input the hexagon
+3. Input the octagon
+Input the number of chosen figure: 124
+No figure with such number
+
+Commands:
+0. Exit
+1. Add figure
+2. Function call for all elements
+3. Delete figure by index
+Input number of chosen function: 12
+No function with such number.
+
+Commands:
+0. Exit
+1. Add figure
+2. Function call for all elements
+3. Delete figure by index
+Input number of chosen function: 1
+1. Input the pentagon
+2. Input the hexagon
+3. Input the octagon
+Input the number of chosen figure: 2
+Input coordinates of vertexes of hexagon:
+Input the coordinate 'x': 214
+Input the coordinate 'y': 12
+
+Input the coordinate 'x': 12
+Input the coordinate 'y': 124
+
+Input the coordinate 'x': 124
+Input the coordinate 'y': 12124
+
+Input the coordinate 'x': 214
+Input the coordinate 'y': 12
+
+Input the coordinate 'x': 241
+Input the coordinate 'y': 214
+
+Input the coordinate 'x': 241
+Input the coordinate 'y': 12
+
+
+Commands:
+0. Exit
+1. Add figure
+2. Function call for all elements
+3. Delete figure by index
+Input number of chosen function: 3
+Input the index of figure for deleting:
+2
+The index is out of bounds
+
+Commands:
+0. Exit
+1. Add figure
+2. Function call for all elements
+3. Delete figure by index
+Input number of chosen function: 3
+Input the index of figure for deleting:
+1
+
+Commands:
+0. Exit
+1. Add figure
+2. Function call for all elements
+3. Delete figure by index
+Input number of chosen function: 3
+Input the index of figure for deleting:
+100
+The index is out of bounds
+
+Commands:
+0. Exit
+1. Add figure
+2. Function call for all elements
+3. Delete figure by index
+Input number of chosen function: 2
+1. Count the area of figures
+2. Count the center of figures
+3. Print coordinates of figures
+Input the number of chosen function: 2
+The center of figure:
+The center of 1 figure.
+Coordinate 'x': 2492;  Coordinate 'y': 157
